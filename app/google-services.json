@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278542647463",
+    "firebase_url": "https://texttool-acfe9.firebaseio.com",
+    "project_id": "texttool-acfe9",
+    "storage_bucket": "texttool-acfe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278542647463:android:f43f90b3dbd055c456db82",
+        "android_client_info": {
+          "package_name": "com.example.texttool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278542647463-v2cab00kkl843n6sgcntjarv0mtbjsnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UV4tpbjqASxwCdfrWPWU7P_tCKJFtho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278542647463-v2cab00kkl843n6sgcntjarv0mtbjsnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
